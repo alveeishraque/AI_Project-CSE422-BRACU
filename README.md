@@ -1,4 +1,4 @@
-# Lung Cancer Prediction Model
+# || Lung Cancer Prediction Model ||
 
 Focusing on developing a machine learning model to predict the likelihood of lung cancer based on various health-related and lifestyle features. The dataset used includes detailed information about 15 features:
 
